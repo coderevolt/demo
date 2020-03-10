@@ -10,5 +10,13 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "dtos": [
+    { "id": "wrcjobe", 
+      "body": {}
+    },
+    { "id": "wrcjob1", 
+      "body": {}
+    },
+  ]
 }
