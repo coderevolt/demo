@@ -9,9 +9,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "coderevolt"
-  },
-  "dtos": [
-    { "id": "wrcjobe" }
-  ]
+    "name": "typicode"
+  }
 }
