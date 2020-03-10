@@ -12,11 +12,6 @@
     "name": "coderevolt"
   },
   "dtos": [
-    { "id": "wrcjobe", 
-      "body": {}
-    },
-    { "id": "wrcjob1", 
-      "body": {}
-    },
+    { "id": "wrcjobe" }
   ]
 }
