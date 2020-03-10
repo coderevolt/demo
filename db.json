@@ -11,5 +11,14 @@
   ],
   "profile": {
     "name": "coderevolt"
-  }
+  },
+  "screens": [
+    { "id": "wrcjobe", "body": { 
+      "mcsU": ""} 
+    },
+    { "id": "wrcjob1", "body": { 
+      "mcsU": "abc                "} 
+    }
+
+  ]
 }
