@@ -13,10 +13,10 @@
     "name": "coderevolt"
   },
   "screens": [
-    { "id": "wrcjobe", "body": { 
+    { "id" : 1, "name": "wrcjobe", "body": { 
       "mcsU": ""} 
     },
-    { "id": "wrcjob1", "body": { 
+    { "id" : 2, "name": "wrcjob1", "body": { 
       "mcsU": "abc                "} 
     }
 
