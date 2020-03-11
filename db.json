@@ -13,8 +13,464 @@
     "name": "coderevolt"
   },
   "screens": [
-    { "id" : 1, "name": "wrcjobe", "body": { 
-      "mcsU": ""} 
+    { "id" : "wrcjobe", "body": 
+      {
+        "_record": "Wrcolbu",
+        "mcsUJob": {
+          "value": "Finib",
+          "length": 5
+        },
+        "mcsAddress": {
+          "mcsUHouse": {
+            "value": "Nulla",
+            "length": 5
+          },
+          "mcsUStreet": {
+            "value": "Cond",
+            "length": 4
+          },
+          "mcsUStreetType": {
+            "value": "Es",
+            "length": 2
+          },
+          "mcsUSpecialCode": {
+            "value": "Nun",
+            "length": 3
+          },
+          "length": 14
+        },
+        "mcsUCustDistrict": {
+          "value": "M",
+          "length": 1
+        },
+        "mcsUCustCntyRes": {
+          "value": "N",
+          "length": 1
+        },
+        "mcsUCustClass": {
+          "value": "Ul",
+          "length": 2
+        },
+        "mcsUTruck": {
+          "value": 2,
+          "length": 1
+        },
+        "mcsUCustMultAcct": {
+          "value": 74,
+          "length": 2
+        },
+        "mcsUCustNoCharge": {
+          "value": "F",
+          "length": 1
+        },
+        "mcsUMtrClosed": {
+          "value": "P",
+          "length": 1
+        },
+        "mcsUMtrNo": {
+          "value": 401841385,
+          "length": 9
+        },
+        "mcsUMtrSizeX": {
+          "mcsUMtrSize": {
+            "value": 43507,
+            "length": 5
+          },
+          "length": 5
+        },
+        "mcsUMtrManufact": {
+          "value": "B",
+          "length": 1
+        },
+        "mcsUMtrTestedDate": {
+          "mcsUMtrTestedMm": {
+            "value": "Ur",
+            "length": 2
+          },
+          "mcsUMtrTestedDd": {
+            "value": "La",
+            "length": 2
+          },
+          "mcsUMtrTestedYy": {
+            "value": "Ef",
+            "length": 2
+          },
+          "length": 6
+        },
+        "mcsUMtrChangeDate": {
+          "mcsUMtrChangeMm": {
+            "value": "No",
+            "length": 2
+          },
+          "mcsUMtrChangeDd": {
+            "value": "Ur",
+            "length": 2
+          },
+          "mcsUMtrChangeYy": {
+            "value": "Vi",
+            "length": 2
+          },
+          "length": 6
+        },
+        "mcsURegInspDate": {
+          "mcsURegInspMm": {
+            "value": "Fe",
+            "length": 2
+          },
+          "mcsURegInspDd": {
+            "value": "Ti",
+            "length": 2
+          },
+          "mcsURegInspYy": {
+            "value": "17",
+            "length": 2
+          },
+          "regInspYy": {
+            "value": 17,
+            "length": 2
+          },
+          "length": 6
+        },
+        "mcsUMtrNoDials": {
+          "value": 0,
+          "length": 1
+        },
+        "mcsUMtrNoDialsX": {
+          "value": "R",
+          "length": 1
+        },
+        "mcsUMtrType": {
+          "value": "P",
+          "length": 1
+        },
+        "mcsUBypass": {
+          "value": "E",
+          "length": 1
+        },
+        "mcsUBypassSealed": {
+          "mcsUBypassSealedMm": {
+            "value": "Lo",
+            "length": 2
+          },
+          "mcsUBypassSealedDd": {
+            "value": "In",
+            "length": 2
+          },
+          "mcsUBypassSealedYy": {
+            "value": "Ul",
+            "length": 2
+          },
+          "length": 6
+        },
+        "mcsULockedBypass": {
+          "value": "R",
+          "length": 1
+        },
+        "mcsUBypassInspDate": {
+          "mcsUBypassInspMm": {
+            "value": "Ip",
+            "length": 2
+          },
+          "mcsUBypassInspDd": {
+            "value": "Co",
+            "length": 2
+          },
+          "mcsUBypassInspYy": {
+            "value": "Ma",
+            "length": 2
+          },
+          "length": 6
+        },
+        "mcsURegType": {
+          "value": "P",
+          "length": 1
+        },
+        "mcsURegNo": {
+          "value": 0,
+          "length": 10
+        },
+        "mcsUMtrRegNo": {
+          "value": "Ac maximus",
+          "length": 10
+        },
+        "mcsURegLocated": {
+          "value": "Li",
+          "length": 2
+        },
+        "mcsURegNoDials": {
+          "value": 2,
+          "length": 1
+        },
+        "mcsUMtrSetupDate": {
+          "mcsUMtrSetupMm": {
+            "value": "El",
+            "length": 2
+          },
+          "mcsUMtrSetupDd": {
+            "value": "Ar",
+            "length": 2
+          },
+          "mcsUMtrSetupYy": {
+            "value": "Et",
+            "length": 2
+          },
+          "length": 6
+        },
+        "mcsUWireType": {
+          "value": "I",
+          "length": 1
+        },
+        "mcsUMtrComment_1": {
+          "value": "Po",
+          "length": 2
+        },
+        "mcsUMtrComment_1Text": {
+          "value": "Ac aenean metus v",
+          "length": 17
+        },
+        "mcsUNextBillReadingX": {
+          "mcsUNextBillReading": {
+            "value": -7536460,
+            "length": 7
+          },
+          "length": 7
+        },
+        "mcsUNextBillCons": {
+          "value": 9574766,
+          "length": 7
+        },
+        "mcsUNextBillCode": {
+          "value": "Q",
+          "length": 1
+        },
+        "mcsUNextBillDate": {
+          "mcsUNextBillMm": {
+            "value": 12,
+            "length": 2
+          },
+          "mcsUNextBillDd": {
+            "value": 26,
+            "length": 2
+          },
+          "mcsUNextBillYy": {
+            "value": 35,
+            "length": 2
+          },
+          "length": 6
+        },
+        "mcsUMtrComment_2": {
+          "value": "Ni",
+          "length": 2
+        },
+        "mcsUMtrComment_2Text": {
+          "value": "Dolor est commodo",
+          "length": 17
+        },
+        "mcsUMtrText": {
+          "value": "Tellus risus vel luc",
+          "length": 20
+        },
+        "mcsUSumpPump": {
+          "value": "E",
+          "length": 1
+        },
+        "mcsULegalSumpPump": {
+          "value": "Q",
+          "length": 1
+        },
+        "mcsUSumpInspDate": {
+          "mcsUSumpInspMm": {
+            "value": "Le",
+            "length": 2
+          },
+          "mcsUSumpInspDd": {
+            "value": "Fe",
+            "length": 2
+          },
+          "mcsUSumpInspYy": {
+            "value": "Bl",
+            "length": 2
+          },
+          "length": 6
+        },
+        "mcsUMtrText2": {
+          "value": "Ligula volutpat lore",
+          "length": 20
+        },
+        "mcsUServiceType": {
+          "value": "Ali",
+          "length": 3
+        },
+        "mcsUServicedDate": {
+          "mcsUServicedMm": {
+            "value": "Do",
+            "length": 2
+          },
+          "mcsUServicedDd": {
+            "value": "In",
+            "length": 2
+          },
+          "mcsUServicedYy": {
+            "value": "Nu",
+            "length": 2
+          },
+          "length": 6
+        },
+        "mcsUServicedBy": {
+          "value": "To",
+          "length": 2
+        },
+        "mcsUServicedBy_2": {
+          "value": "Va",
+          "length": 2
+        },
+        "mcsUServicedBy_3": {
+          "value": "Fe",
+          "length": 2
+        },
+        "mcsUJobCode": {
+          "value": "Ve",
+          "length": 2
+        },
+        "mcsUActionCode": {
+          "value": "Eu",
+          "length": 2
+        },
+        "mcsUNewComment1": {
+          "value": "Amet tristique neque posuere erat bibendum feugi",
+          "length": 48
+        },
+        "mcsUNewComment2": {
+          "value": "Et finibus ornare amet eros leo vivamus quisque ",
+          "length": 48
+        },
+        "mcsUNewComment3": {
+          "value": "Id fringilla egestas porta tellus vulputate ac v",
+          "length": 48
+        },
+        "mcsUComments": [
+          {
+            "mcsUComMm": {
+              "value": 2,
+              "length": 2
+            },
+            "mcsUComDd": {
+              "value": 19,
+              "length": 2
+            },
+            "mcsUComYy": {
+              "value": 10,
+              "length": 2
+            },
+            "mcsUComCode": {
+              "value": "V",
+              "length": 1
+            },
+            "mcsUComment": {
+              "value": "Elementum sem interdum ultricies ante eu varius ",
+              "length": 48
+            },
+            "length": 55
+          },
+          {
+            "mcsUComMm": {
+              "value": 4,
+              "length": 2
+            },
+            "mcsUComDd": {
+              "value": 19,
+              "length": 2
+            },
+            "mcsUComYy": {
+              "value": 11,
+              "length": 2
+            },
+            "mcsUComCode": {
+              "value": "N",
+              "length": 1
+            },
+            "mcsUComment": {
+              "value": "Vitae platea cras congue dui sodales porttitor a",
+              "length": 48
+            },
+            "length": 55
+          },
+          {
+            "mcsUComMm": {
+              "value": 1,
+              "length": 2
+            },
+            "mcsUComDd": {
+              "value": 3,
+              "length": 2
+            },
+            "mcsUComYy": {
+              "value": 50,
+              "length": 2
+            },
+            "mcsUComCode": {
+              "value": "N",
+              "length": 1
+            },
+            "mcsUComment": {
+              "value": "Praesent massa suspendisse non cursus lacinia ul",
+              "length": 48
+            },
+            "length": 55
+          },
+          {
+            "mcsUComMm": {
+              "value": 7,
+              "length": 2
+            },
+            "mcsUComDd": {
+              "value": 24,
+              "length": 2
+            },
+            "mcsUComYy": {
+              "value": 69,
+              "length": 2
+            },
+            "mcsUComCode": {
+              "value": "I",
+              "length": 1
+            },
+            "mcsUComment": {
+              "value": "Facilisis enim cursus integer arcu lorem luctus ",
+              "length": 48
+            },
+            "length": 55
+          }
+        ],
+        "mcsUActionTaken": {
+          "value": "Vivamus ligula augue blandit dolor a nunc sociosqu sem aliquam                                      ",
+          "length": 100
+        },
+        "mcsUCustComment_1": {
+          "value": "Ac",
+          "length": 2
+        },
+        "mcsUCustComment_1Text": {
+          "value": "Phasellus posuere",
+          "length": 17
+        },
+        "mcsUCustComment_2": {
+          "value": "Co",
+          "length": 2
+        },
+        "mcsUCustComment_2Text": {
+          "value": "Euismod urna temp",
+          "length": 17
+        },
+        "mcsUCustText": {
+          "value": "Eros orci vitae at n",
+          "length": 20
+        },
+        "mcsUNextJob": {
+          "value": 49702,
+          "length": 5
+        }
+      }
     },
     { "id" : 2, "name": "wrcjob1", "body": { 
       "mcsU": "abc                "} 
