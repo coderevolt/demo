@@ -13,7 +13,7 @@
     "name": "coderevolt"
   },
   "screens": [
-    { "id" : "wrcjobe", "body": 
+    { "id" : "wtrjobe", "body": 
       {
         "_record": "Wrcolbu",
         "mcsUJob": {
@@ -472,7 +472,7 @@
         }
       }
     },
-    { "id" : 2, "name": "wrcjob1", "body": { 
+    { "id" : "wtrjob1", "body": { 
       "mcsU": "abc                "} 
     }
 
